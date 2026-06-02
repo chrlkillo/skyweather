@@ -1,0 +1,15 @@
+{
+  "name": "wind-monitor-bot",
+  "version": "1.0.0",
+  "description": "Telegram wind monitor bot for Jabal Ali station",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
